@@ -13,6 +13,7 @@ var amysAge = 29;
 var brittanisAge = 34;
 var amysBirthYear = 1991;
 var brittanisBirthYear = 1986;
+let jeffsAge = 'Who knows?'
 
 ////////// PROBLEM 2 //////////
 
